@@ -1,0 +1,14 @@
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/bin/Debug/net9.0/quicksort
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/bin/Debug/net9.0/quicksort.deps.json
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/bin/Debug/net9.0/quicksort.runtimeconfig.json
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/bin/Debug/net9.0/quicksort.dll
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/bin/Debug/net9.0/quicksort.pdb
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/obj/Debug/net9.0/quicksort.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/obj/Debug/net9.0/quicksort.AssemblyInfoInputs.cache
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/obj/Debug/net9.0/quicksort.AssemblyInfo.cs
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/obj/Debug/net9.0/quicksort.csproj.CoreCompileInputs.cache
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/obj/Debug/net9.0/quicksort.dll
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/obj/Debug/net9.0/refint/quicksort.dll
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/obj/Debug/net9.0/quicksort.pdb
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/obj/Debug/net9.0/quicksort.genruntimeconfig.cache
+/mnt/c/Users/pranavj/Desktop/learning/c#/quicksort/obj/Debug/net9.0/ref/quicksort.dll

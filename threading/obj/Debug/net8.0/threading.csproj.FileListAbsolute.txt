@@ -1,0 +1,14 @@
+C:\Users\pranavj\Desktop\learning\c#\threading\bin\Debug\net8.0\threading.exe
+C:\Users\pranavj\Desktop\learning\c#\threading\bin\Debug\net8.0\threading.deps.json
+C:\Users\pranavj\Desktop\learning\c#\threading\bin\Debug\net8.0\threading.runtimeconfig.json
+C:\Users\pranavj\Desktop\learning\c#\threading\bin\Debug\net8.0\threading.dll
+C:\Users\pranavj\Desktop\learning\c#\threading\bin\Debug\net8.0\threading.pdb
+C:\Users\pranavj\Desktop\learning\c#\threading\obj\Debug\net8.0\threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pranavj\Desktop\learning\c#\threading\obj\Debug\net8.0\threading.AssemblyInfoInputs.cache
+C:\Users\pranavj\Desktop\learning\c#\threading\obj\Debug\net8.0\threading.AssemblyInfo.cs
+C:\Users\pranavj\Desktop\learning\c#\threading\obj\Debug\net8.0\threading.csproj.CoreCompileInputs.cache
+C:\Users\pranavj\Desktop\learning\c#\threading\obj\Debug\net8.0\threading.dll
+C:\Users\pranavj\Desktop\learning\c#\threading\obj\Debug\net8.0\refint\threading.dll
+C:\Users\pranavj\Desktop\learning\c#\threading\obj\Debug\net8.0\threading.pdb
+C:\Users\pranavj\Desktop\learning\c#\threading\obj\Debug\net8.0\threading.genruntimeconfig.cache
+C:\Users\pranavj\Desktop\learning\c#\threading\obj\Debug\net8.0\ref\threading.dll
