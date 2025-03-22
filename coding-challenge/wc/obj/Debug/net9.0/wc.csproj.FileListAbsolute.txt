@@ -1,0 +1,15 @@
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/bin/Debug/net9.0/wc
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/bin/Debug/net9.0/wc.deps.json
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/bin/Debug/net9.0/wc.runtimeconfig.json
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/bin/Debug/net9.0/wc.dll
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/bin/Debug/net9.0/wc.pdb
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/obj/Debug/net9.0/wc.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/obj/Debug/net9.0/wc.AssemblyInfoInputs.cache
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/obj/Debug/net9.0/wc.AssemblyInfo.cs
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/obj/Debug/net9.0/wc.csproj.CoreCompileInputs.cache
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/obj/Debug/net9.0/wc.sourcelink.json
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/obj/Debug/net9.0/wc.dll
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/obj/Debug/net9.0/refint/wc.dll
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/obj/Debug/net9.0/wc.pdb
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/obj/Debug/net9.0/wc.genruntimeconfig.cache
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/wc/obj/Debug/net9.0/ref/wc.dll

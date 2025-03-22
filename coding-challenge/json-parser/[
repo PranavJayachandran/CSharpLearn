@@ -1,0 +1,30 @@
+﻿class JsonParser{
+  public static void Main(string[] args){
+    string s;
+    using(StreamReader str = File.OpenText("step1/valid.json"))
+    {
+      s = str.ReadToEnd();
+    }
+    Console.WriteLine(s);
+  }
+}
+
+
+class Lexer{
+
+}
+
+struct Node{
+  public object val;
+  public NodeType type;
+
+}
+
+enum NodeType{
+  Integer,
+  Char,
+  Float,
+  String,
+  Array,
+  Object
+}

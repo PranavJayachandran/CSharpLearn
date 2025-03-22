@@ -1,0 +1,15 @@
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/bin/Debug/net9.0/json-parser
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/bin/Debug/net9.0/json-parser.deps.json
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/bin/Debug/net9.0/json-parser.runtimeconfig.json
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/bin/Debug/net9.0/json-parser.dll
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/bin/Debug/net9.0/json-parser.pdb
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/obj/Debug/net9.0/json-parser.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/obj/Debug/net9.0/json-parser.AssemblyInfoInputs.cache
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/obj/Debug/net9.0/json-parser.AssemblyInfo.cs
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/obj/Debug/net9.0/json-parser.csproj.CoreCompileInputs.cache
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/obj/Debug/net9.0/json-parser.sourcelink.json
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/obj/Debug/net9.0/json-parser.dll
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/obj/Debug/net9.0/refint/json-parser.dll
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/obj/Debug/net9.0/json-parser.pdb
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/obj/Debug/net9.0/json-parser.genruntimeconfig.cache
+/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/obj/Debug/net9.0/ref/json-parser.dll
