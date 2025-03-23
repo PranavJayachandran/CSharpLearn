@@ -1,31 +1,35 @@
 namespace JsonParser;
 
 public class Parser(Lexer lexer){
-  public void Run(){
+  
+  public void JsonParse(){
     var val = lexer.GetNext();
     if(val.Type != NodeType.CurlyOpen){
       RaiseException();
     }
+    val = lexer.GetNext();
+    if(val.Type == NodeType.CurlyClose){
+      return ;
+    }
+    lexer.PeekBackIndex();
     Check();
+    lexer.PeekBackIndex();
+    val = lexer.GetNext();
+    if(val.Type != NodeType.CurlyClose){
+      RaiseException();
+    }
   }
 
   private void Check(){
+ 
     CheckKey();
-
     CheckColon();
-
     CheckValue();
 
     var val = lexer.GetNext();
     if(val.Type == NodeType.Comma){
       Check();
     }
-    lexer.PeekBackIndex();
-    val = lexer.GetNext();
-    if(val.Type != NodeType.CurlyClose){
-      RaiseException();
-    }
-
   }
 
   public void CheckKey(){
@@ -78,6 +82,36 @@ public class Parser(Lexer lexer){
     else if(val.Type == NodeType.SingleQuotes){
       GetCharacter();
     }
+    else if(val.Type == NodeType.SquareOpen){
+      CheckValue();
+      string s = "";
+      while(val.Type == NodeType.Space){
+        s += val.Val;
+        val = lexer.GetNext();
+      }
+      if(val.Type == NodeType.Comma){
+        CheckValue();
+      }
+      Console.WriteLine(s);
+      val = lexer.GetNext();
+      if(val.Type != NodeType.SquareClose)
+        RaiseException();
+    }
+    else if(val.Type == NodeType.SquareClose){
+      lexer.PeekBackIndex();
+    }
+    else if(val.Type == NodeType.CurlyOpen){
+      lexer.PeekBackIndex();
+      JsonParse();
+    }
+    else if(val.Type == NodeType.CurlyClose){
+      lexer.PeekBackIndex();
+    }
+    else{
+      Console.WriteLine(val.Val);
+      lexer.PeekBackIndex();
+      GetKeyword();
+    }
   }
 
   private void GetNumber(){
@@ -107,8 +141,32 @@ public class Parser(Lexer lexer){
     val = lexer.GetNext();
     if(val.Type != NodeType.SingleQuotes)
       RaiseException();
-  }
+  } 
 
+
+  private void GetKeyword(){
+    int i = 0;
+    string s = "";
+    var val = lexer.GetNext();
+    while(i < 5 && val.Type == NodeType.Char){
+      s += val.Val.ToString();
+      i++;
+      if(i == 4 && (s == "true" || s == "null")){
+        Console.WriteLine(s);
+        return;
+      }
+      val = lexer.GetNext();
+    }
+    if(i!=5){
+      RaiseException();
+    }
+    if(s == "false"){
+      lexer.PeekBackIndex();
+      Console.WriteLine(s);
+      return;
+    }
+    RaiseException();
+  }
   public void RaiseException(){
     throw new Exception($"Invalid at {lexer.GetIndex()}");
   }
