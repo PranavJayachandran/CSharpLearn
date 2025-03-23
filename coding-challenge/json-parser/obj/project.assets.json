@@ -8,25 +8,24 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/root/.nuget/packages/": {}
+    "/home/pranj/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/json-parser.csproj",
+      "projectUniqueName": "/home/pranj/code/c#/CSharpLearn/coding-challenge/json-parser/json-parser.csproj",
       "projectName": "json-parser",
-      "projectPath": "/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/json-parser.csproj",
-      "packagesPath": "/root/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/pranavj/Desktop/learning/c#/coding-challenge/json-parser/obj/",
+      "projectPath": "/home/pranj/code/c#/CSharpLearn/coding-challenge/json-parser/json-parser.csproj",
+      "packagesPath": "/home/pranj/.nuget/packages/",
+      "outputPath": "/home/pranj/code/c#/CSharpLearn/coding-challenge/json-parser/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/root/.nuget/NuGet/NuGet.Config"
+        "/home/pranj/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,7 +44,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -66,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/pranj/.dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
