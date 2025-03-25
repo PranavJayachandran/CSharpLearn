@@ -1,0 +1,15 @@
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/bin/Debug/net9.0/compression-tool
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/bin/Debug/net9.0/compression-tool.deps.json
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/bin/Debug/net9.0/compression-tool.runtimeconfig.json
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/bin/Debug/net9.0/compression-tool.dll
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/bin/Debug/net9.0/compression-tool.pdb
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/obj/Debug/net9.0/compression-tool.GeneratedMSBuildEditorConfig.editorconfig
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/obj/Debug/net9.0/compression-tool.AssemblyInfoInputs.cache
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/obj/Debug/net9.0/compression-tool.AssemblyInfo.cs
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/obj/Debug/net9.0/compression-tool.csproj.CoreCompileInputs.cache
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/obj/Debug/net9.0/compression-tool.sourcelink.json
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/obj/Debug/net9.0/compression-tool.dll
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/obj/Debug/net9.0/refint/compression-tool.dll
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/obj/Debug/net9.0/compression-tool.pdb
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/obj/Debug/net9.0/compression-tool.genruntimeconfig.cache
+/home/pranj/code/c#/CSharpLearn/coding-challenge/compression-tool/obj/Debug/net9.0/ref/compression-tool.dll
