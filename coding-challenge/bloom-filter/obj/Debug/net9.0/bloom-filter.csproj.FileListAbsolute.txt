@@ -1,0 +1,15 @@
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/bin/Debug/net9.0/bloom-filter
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/bin/Debug/net9.0/bloom-filter.deps.json
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/bin/Debug/net9.0/bloom-filter.runtimeconfig.json
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/bin/Debug/net9.0/bloom-filter.dll
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/bin/Debug/net9.0/bloom-filter.pdb
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/obj/Debug/net9.0/bloom-filter.GeneratedMSBuildEditorConfig.editorconfig
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/obj/Debug/net9.0/bloom-filter.AssemblyInfoInputs.cache
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/obj/Debug/net9.0/bloom-filter.AssemblyInfo.cs
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/obj/Debug/net9.0/bloom-filter.csproj.CoreCompileInputs.cache
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/obj/Debug/net9.0/bloom-filter.sourcelink.json
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/obj/Debug/net9.0/bloom-filter.dll
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/obj/Debug/net9.0/refint/bloom-filter.dll
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/obj/Debug/net9.0/bloom-filter.pdb
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/obj/Debug/net9.0/bloom-filter.genruntimeconfig.cache
+/home/pranj/code/c#/CSharpLearn/coding-challenge/bloom-filter/obj/Debug/net9.0/ref/bloom-filter.dll
