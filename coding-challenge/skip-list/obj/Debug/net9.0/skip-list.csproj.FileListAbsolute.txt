@@ -1,0 +1,15 @@
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/obj/Debug/net9.0/skip-list.GeneratedMSBuildEditorConfig.editorconfig
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/obj/Debug/net9.0/skip-list.AssemblyInfoInputs.cache
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/obj/Debug/net9.0/skip-list.AssemblyInfo.cs
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/obj/Debug/net9.0/skip-list.csproj.CoreCompileInputs.cache
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/obj/Debug/net9.0/skip-list.sourcelink.json
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/bin/Debug/net9.0/skip-list
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/bin/Debug/net9.0/skip-list.deps.json
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/bin/Debug/net9.0/skip-list.runtimeconfig.json
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/bin/Debug/net9.0/skip-list.dll
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/bin/Debug/net9.0/skip-list.pdb
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/obj/Debug/net9.0/skip-list.dll
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/obj/Debug/net9.0/refint/skip-list.dll
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/obj/Debug/net9.0/skip-list.pdb
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/obj/Debug/net9.0/skip-list.genruntimeconfig.cache
+/home/pranj/code/c#/CSharpLearn/coding-challenge/skip-list/obj/Debug/net9.0/ref/skip-list.dll
