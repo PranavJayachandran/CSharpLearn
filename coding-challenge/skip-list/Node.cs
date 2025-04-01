@@ -12,7 +12,10 @@ public class Node{
     Val = val;
     this.level = level;
     CurrentLevel = level;
-    Forward = Enumerable.Repeat<Node>(null,level+1).ToList();
+    Forward = Enumerable.Range(0, level + 1)
+                    .Select(_ => (Node?)null)
+                    .ToList();
+
   }
 
   public void Reset(){

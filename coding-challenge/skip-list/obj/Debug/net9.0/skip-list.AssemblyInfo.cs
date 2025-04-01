@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("skip-list")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e15c4cef19b304a5f63339c04dd4662930bf9f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bbf99cdd817a2a05dbe22ac6d486ca7a2e244e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("skip-list")]
 [assembly: System.Reflection.AssemblyTitleAttribute("skip-list")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

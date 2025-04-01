@@ -1,10 +1,9 @@
 ﻿namespace SkipList;
 
-
 public class Run{
   public static void Main(){
     Console.WriteLine("Worlked");
-    SkipList skipList = new SkipList(4);
+    SkipList skipList = new SkipList(2);
     skipList.Insert(1, "one");
     skipList.Print();
     skipList.Insert(3,"three");
@@ -21,14 +20,14 @@ public class Run{
     skipList.Print();
   }
 }
-public class SkipList{
+publi class SkipList{
   private int maxLevel;
-  private List<Node>heads;
+  Node head;
   private static readonly Random rand = new Random();
 
   public SkipList(int maxLevel){
     this.maxLevel = maxLevel;
-    this.Init();
+    head = new Node(-1, "HEAD", maxLevel-1);
   }
   public void Insert(int key, string val){
     List<Node>update = null; 
@@ -42,7 +41,6 @@ public class SkipList{
       }
     }
     else{
-      Console.WriteLine("HERE");
       node.Forward[0].Val = val;
     }
   }
@@ -59,14 +57,10 @@ public class SkipList{
   }
   public void Print(){
     int level = maxLevel-1;
-    foreach(var head in heads){
-      var node = head;      
+    while(level >= 0){
+      var node = head.Forward[level];
       while(node != null){
-        if(node.key == -1){
-          Console.Write("HEAD");
-        }
-        else
-          Console.Write("->"+ node.key.ToString() + ":" + node.Val);
+        Console.Write($"{node.key} -> {node.Val} :: ");
         node = node.Forward[level];
       }
       Console.WriteLine();
@@ -74,18 +68,14 @@ public class SkipList{
     }
     Console.WriteLine();
   }
-  private void Init(){
-  heads = Enumerable.Range(0, maxLevel)
-                 .Select(_ => new Node(-1, "HEAD", maxLevel - 1))
-                 .ToList();
-}
   private Node Search(int key, out List<Node> update){
     update = Enumerable.Repeat<Node>(null,maxLevel).ToList();
-    var node = heads.First();
+    var node = head;
     for(int i = maxLevel - 1;i>=0;i--){
       while(node!=null && node.Forward[i]?.key < key){
         node = node.Forward[i];
       }
+      Console.WriteLine($"{i}:{node.key}");
       update[i] = node;
     }
     return node;
