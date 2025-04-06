@@ -1,0 +1,15 @@
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/obj/Debug/net9.0/red-black-tree.GeneratedMSBuildEditorConfig.editorconfig
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/obj/Debug/net9.0/red-black-tree.AssemblyInfoInputs.cache
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/obj/Debug/net9.0/red-black-tree.AssemblyInfo.cs
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/obj/Debug/net9.0/red-black-tree.csproj.CoreCompileInputs.cache
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/obj/Debug/net9.0/red-black-tree.sourcelink.json
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/bin/Debug/net9.0/red-black-tree
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/bin/Debug/net9.0/red-black-tree.deps.json
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/bin/Debug/net9.0/red-black-tree.runtimeconfig.json
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/bin/Debug/net9.0/red-black-tree.dll
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/bin/Debug/net9.0/red-black-tree.pdb
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/obj/Debug/net9.0/red-black-tree.dll
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/obj/Debug/net9.0/refint/red-black-tree.dll
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/obj/Debug/net9.0/red-black-tree.pdb
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/obj/Debug/net9.0/red-black-tree.genruntimeconfig.cache
+/home/pranj/code/c#/CSharpLearn/coding-challenge/red-black-tree/obj/Debug/net9.0/ref/red-black-tree.dll
